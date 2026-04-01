@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automatic-Number-Plate-Recognition-YOLOv8
 ## Demo
 
@@ -53,3 +54,6 @@ python add_missing_data.py
 ```python
 python visualize.py
 ```
+=======
+# Car-Number-Plate-Detection
+>>>>>>> c9aa1e45a9083623b0e6c29cccd8cd508f401ec2
