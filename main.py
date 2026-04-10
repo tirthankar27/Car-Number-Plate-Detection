@@ -65,5 +65,4 @@ while ret:
                                                                     'bbox_score': score,
                                                                     'text_score': license_plate_text_score}}
 
-# write results
 write_csv(results, './test.csv')
