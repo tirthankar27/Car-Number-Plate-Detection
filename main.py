@@ -17,7 +17,7 @@ license_plate_detector = YOLO('license_plate_detector.pt')
 # load video
 cap = cv2.VideoCapture('./sample1.mp4')
 
-vehicles = [2, 3, 5, 7]
+vehicles = [2, 3, 5, 7] # Car, Motorcycle, Bus, Truck class ids in COCO dataset
 
 # read frames
 frame_nmr = -1
